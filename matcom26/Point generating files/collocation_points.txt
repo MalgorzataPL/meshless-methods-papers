@@ -1,0 +1,20 @@
+
+
+Heart domain
+HumanHeart.math  : boundary points and normal vectors
+heart_int.mat  : interior points
+
+Tooth domain
+Bpoint.mat:  boundary points
+Ipoint.mat:  interior points
+tooth_nor.mat: normal vectors
+
+Human body containing two lungs, ventricle, and body points
+All_in_One.mat: boundary points on two lungs, ventricle, and body.
+ventricle_int.mat: interior points of ventricle
+normal_the.mat: normal vectors of body points
+normal_lu.mat: normal vectors of two lungs
+normal_ve.mat: normal vectors of ventricle
+
+Cube containing 27 circular holes
+cube_hollow.m
